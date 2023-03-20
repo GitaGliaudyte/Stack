@@ -1,6 +1,9 @@
+/*
+Gita Gliaudytė, 2023
+*/
+
 #ifndef HEADER_H
 #define HEADER_H
-
 
 struct node{
     int data;
