@@ -1,8 +1,10 @@
 # Stack
-Realisation of a stack. 
+
 /*
 Gita Gliaudytė, 2023
 */
+
+Realisation of a stack. 
 
 defineStack.h - headers of all functions
 
